@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/274363461/connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/274363461/connectivity.iml" group="android/connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1472783805/device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/1472783805/device_info.iml" group="android/device_info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-939909136/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-939909136/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/462769190/firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/462769190/firebase_crashlytics.iml" group="android/firebase_crashlytics" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1048341779/firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1048341779/firebase_messaging.iml" group="android/firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1109940639/flutter_keyboard_visibility.iml" filepath="$PROJECT_DIR$/.idea/modules/-1109940639/flutter_keyboard_visibility.iml" group="android/flutter_keyboard_visibility" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2062045609/flutter_native_timezone.iml" filepath="$PROJECT_DIR$/.idea/modules/-2062045609/flutter_native_timezone.iml" group="android/flutter_native_timezone" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-534898258/libphonenumber.iml" filepath="$PROJECT_DIR$/.idea/modules/-534898258/libphonenumber.iml" group="android/libphonenumber" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1569653582/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-1569653582/shared_preferences.iml" group="android/shared_preferences" />
+    </modules>
+  </component>
+</project>

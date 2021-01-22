@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683533088391",
+    "firebase_url": "https://checkm8.firebaseio.com",
+    "project_id": "checkm8",
+    "storage_bucket": "checkm8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683533088391:android:b8d0fced52e6ed42642a22",
+        "android_client_info": {
+          "package_name": "com.chkm8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683533088391-op6qgut3nkhrc3an4ncakrqshlgvn7mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5JBvw9gpfuHprnRA0X3bFiOQtZXWZ25A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683533088391-op6qgut3nkhrc3an4ncakrqshlgvn7mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

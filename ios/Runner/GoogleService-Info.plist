@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>683533088391-ule4lnsi601cfgo82omegbo8kgid5suc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.683533088391-ule4lnsi601cfgo82omegbo8kgid5suc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnQJMqvtpqeTckPPtblG1828ndOIciCM4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>683533088391</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chkm8</string>
+	<key>PROJECT_ID</key>
+	<string>checkm8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>checkm8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:683533088391:ios:7d9e9139db44710b642a22</string>
+	<key>DATABASE_URL</key>
+	<string>https://checkm8.firebaseio.com</string>
+</dict>
+</plist>

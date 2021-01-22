@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_app_color">#EFFAF5</color>
+    <array name="colors_hex_code">
+        <item>@color/splash_app_color</item>
+    </array>
+</resources>
